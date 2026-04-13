@@ -163,7 +163,7 @@ If you like this project:
 ---
 
 ✨ Enjoy mixing colors with relaxing vibes!
-"@ | Out-File -Encoding utf8 README.md
+
 
 ````
 
