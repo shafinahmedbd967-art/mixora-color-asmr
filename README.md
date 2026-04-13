@@ -1,4 +1,3 @@
-@"
 # 🎨 Mixora – Color ASMR Lab
 
 Mixora is a modern, interactive, ASMR-inspired color mixing web application where users can blend colors gradually with satisfying animations and sound effects.
